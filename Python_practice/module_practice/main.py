@@ -79,6 +79,25 @@
 # print(help(math.sqrt))
 
 
-import calculator
-import calculator
-print(calculator.add(5,8))
+# import calculator
+# import calculator
+# print(calculator.add(5,8))
+
+
+import math
+print(math.__doc__)
+
+
+
+#mini billing system using modules
+# billing system
+# |
+# main.py
+# |
+# calculator.py
+# |
+# tax.py
+# |
+# discount.py
+# |
+# invoice.py
